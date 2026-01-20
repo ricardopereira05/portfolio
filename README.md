@@ -33,11 +33,10 @@ I am a Computer Systems Engineering student at IPCA with a strong interest in so
 
 ## 📁 Projects
 
-- [POO](https://github.com/ricardopereira05/POO) – Sistema de gestão em C# com interface gráfica  
-- [EDA_TP](https://github.com/ricardopereira05/EDA_TP) – Algoritmos e estruturas de dados em C  
-- [Projeto-EDA](https://github.com/ricardopereira05/Projeto-EDA) – Relatório técnico em LaTeX  
-- [REPO](https://github.com/ricardopereira05/REPO) – Protótipos e testes experimentais  
+- [POO](https://github.com/ricardopereira05/POO)  
+- [LabInf](https://github.com/ricardopereira05/LabInf)
+- [EDA_TP](https://github.com/ricardopereira05/EDA_TP) 
+- [Projeto-EDA](https://github.com/ricardopereira05/Projeto-EDA)
 
 ---
 
-📌 Este portefólio será atualizado com novos projetos académicos e pessoais à medida que forem desenvolvidos.
