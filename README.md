@@ -4,14 +4,14 @@ I am a Computer Systems Engineering student at IPCA with a strong interest in so
 
 ---
 
-## 🔗 Contacto
+## 🔗 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoricardocostapereira/)  
 📧 ricardopereira15jr@gmail.com
 
 ---
 
-## 🛠️ Competências Técnicas
+## 🛠️ Technical Skills
 
 ![C](https://img.shields.io/badge/-C-555?logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
@@ -25,13 +25,13 @@ I am a Computer Systems Engineering student at IPCA with a strong interest in so
 
 ---
 
-## 📊 Linguagens mais usadas
+## 📊 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardopereira05&layout=compact&theme=default)
 
 ---
 
-## 📁 Projetos em Destaque
+## 📁 Projects
 
 - [POO](https://github.com/ricardopereira05/POO) – Sistema de gestão em C# com interface gráfica  
 - [EDA_TP](https://github.com/ricardopereira05/EDA_TP) – Algoritmos e estruturas de dados em C  
