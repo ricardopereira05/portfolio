@@ -1,6 +1,6 @@
 # 👨‍💻 Ricardo Pereira
 
-Licenciando em Engenharia de Sistemas Informáticos no IPCA (2.º ano), com foco em desenvolvimento de software, estruturas de dados, bases de dados e metodologias Agile. Tenho experiência prática em C, C++, C#, Python, SQL e LaTeX, com projetos académicos públicos disponíveis neste portefólio.
+I am a Computer Systems Engineering student at IPCA with a strong interest in software development, databases and Agile methodologies. I have hands-on experience from three curricular internships, including Erasmus+, where I worked in development, system auditing, prototyping, testing and technical support. Throughout my academic and professional journey, I developed skills in C, C++, C#, Python, SQL, data modelling, .NET and tools such as Git, Azure DevOps, Figma and Visual Studio. I enjoy structured work, learning quickly and adapting to different teams and environments. I aim to continue growing in the IT field, contributing with dedication, responsibility and a strong desire to develop professionally.
 
 ---
 
