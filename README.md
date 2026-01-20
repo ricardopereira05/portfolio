@@ -19,3 +19,8 @@ Repositório que reúne e organiza os projetos desenvolvidos ao longo da minha f
 
 ### Outros Trabalhos
 - REPO (privado)
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardopereira05&layout=compact&theme=default)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardopereira05)
